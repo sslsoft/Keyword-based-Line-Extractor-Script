@@ -12,9 +12,10 @@ This Python script is designed to search for specific keywords within text files
 - **Handles Large Files**: Efficiently reads files line by line to process large datasets.  
 - **Error Handling**: Catches exceptions and provides meaningful error messages.  
 
-## Requirements  
-- Python 3.6 or higher  
-
+1. **Python 3.7+**  
+2. **Dependencies**: Install required libraries using:
+   ```bash
+   pip install chardet
 ## How to Use  
 
 ### Step 1: Define Input Parameters  
