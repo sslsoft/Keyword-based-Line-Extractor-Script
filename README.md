@@ -28,4 +28,4 @@ Open the script and configure the following variables:
 
 **`keywords`** = ['keyword1', 'keyword2']
 
-**Author: Tamim Shikder**   
+**Author: MR.EAGLE GOST**   
